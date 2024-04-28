@@ -10,7 +10,7 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "François Zaninotto"
+            "name": "Jose Alexis Correa Valencia"
         }
     ],
     "require": {
@@ -38,5 +38,7 @@
     },
     "config": {
         "sort-packages": true
-    }
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
 }
